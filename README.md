@@ -1,7 +1,6 @@
 # Getting Started 
 
-Run `yarn start` or `npm start`
-Follow along at https://reactjs.org/tutorial/tutorial.html
+Run `yarn start` or `npm start`, and follow along at https://reactjs.org/tutorial/tutorial.html
 
 ## Available Scripts
 
